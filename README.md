@@ -42,9 +42,6 @@ The data model is optimized for performance and accuracy using star schema desig
   - The three city queries
   - `MasterTable` (used only as a base for referenced queries)
 
-### Model Relationships
-
-Refer to the diagram (see image) for the relational structure between `Locations`, `Current`, `Forecast_Day`, and `Forecast_Hour`.
 
 ## ⚙️ Automation
 
