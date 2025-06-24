@@ -28,14 +28,15 @@ The data model is optimized for performance and accuracy using star schema desig
  
   
 ### Query Structure
+![Qeuries!](https://github.com/Peter-Sobhy1/Weather-Power-BI-Dashboard/blob/main/Assets/Queries.png?raw=true)
 
 - Three separate queries for each city (`Cairo`, `Giza`, `Alexandria`)
 - These were **appended** using "Append as New" to create a unified `MasterTable`
 - The `MasterTable` is used to generate:
   - Reference queries (dimension & fact)
   - Cleaned dimensions by removing duplicates and unnecessary columns
-- **Load disabled** for:
-  - City queries
+- **Load disabled to data model** for:
+  - The three city queries
   - `MasterTable` (used only as a base for referenced queries)
 
 ### Model Relationships
