@@ -13,10 +13,10 @@ This project is a fully dynamic Power BI dashboard that visualizes weather data 
 - **Dashboard Features**:
   - Dynamic **temperature trends** per weekday
   - Dynamic **chance of rain** visualization
-  - Forecast for the next 7 days
-  - Air quality Index
+  - **Forecast** for the next 7 days
+  - **Air quality** Index
   - Conditional formatting using **icons and color-coded dots**
-  - Fully dynamic visuals that update based on API values
+  - **Fully dynamic visuals** that update based on API values
 
 ## 📊 Data Model Design
 
