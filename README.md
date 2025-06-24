@@ -1,6 +1,7 @@
 # 🌦️ Dynamic Weather Dashboard (Power BI)
 
 This project is a fully dynamic Power BI dashboard that visualizes weather data (temperature and chance of rain) across three major Egyptian cities: **Cairo**, **Giza**, and **Alexandria**. The data is fetched from a live weather API and automatically refreshed every three hours.
+![Dashboard Image](https://github.com/Peter-Sobhy1/Weather-Power-BI-Dashboard/blob/main/Assets/Weather%20Dashboard%20Image.png?raw=true)
 
 ## 🔧 Project Overview
 
