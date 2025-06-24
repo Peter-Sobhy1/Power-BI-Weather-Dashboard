@@ -19,13 +19,14 @@ This project is a fully dynamic Power BI dashboard that visualizes weather data 
 
 The data model is optimized for performance and accuracy using star schema design principles. It includes:
 
-- **Fact Tables**:
-  - `Forecast_Hour`
-  - `Forecast_Day`
+- **Fact Table**:
   - `Current`
 - **Dimension Table**:
   - `Locations`
-
+  - `Forecast_Hour`
+  - `Forecast_Day`
+ 
+  
 ### Query Structure
 
 - Three separate queries for each city (`Cairo`, `Giza`, `Alexandria`)
