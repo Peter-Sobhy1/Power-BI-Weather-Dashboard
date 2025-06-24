@@ -30,7 +30,7 @@ The data model is optimized for performance and accuracy using star schema desig
   - `Forecast_Day`
  
   
-### Query Structure
+### 📐Query Structure
 ![Qeuries!](https://github.com/Peter-Sobhy1/Weather-Power-BI-Dashboard/blob/main/Assets/Queries.png?raw=true)
 
 - Three separate queries for each city (`Cairo`, `Giza`, `Alexandria`)
