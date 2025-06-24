@@ -48,6 +48,7 @@ Refer to the diagram (see image) for the relational structure between `Locations
 
 - The report uses **scheduled refresh** on the Power BI Service every 3 hours (8 times a day)
 - Time zone is set to **(UTC+02:00) Cairo**
+![Scheduled Refresh](https://github.com/Peter-Sobhy1/Weather-Power-BI-Dashboard/blob/main/Assets/Schedule%20Refresh.png?raw=true)
 
 ## 📁 Files
 
