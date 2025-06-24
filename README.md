@@ -15,6 +15,8 @@ This project is a fully dynamic Power BI dashboard that visualizes weather data 
 
 ## 📊 Data Model Design
 
+![Data Model](Assets/Data Model.png)
+
 The data model is optimized for performance and accuracy using star schema design principles. It includes:
 
 - **Fact Tables**:
@@ -65,9 +67,6 @@ Make sure to replace the API key with your own if you plan to republish or fork 
 
 ---
 
-## 🔗 License
-
-This project is shared for educational and demonstration purposes.
 
 
 
