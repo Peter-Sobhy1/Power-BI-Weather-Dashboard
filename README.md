@@ -15,7 +15,7 @@ This project is a fully dynamic Power BI dashboard that visualizes weather data 
 
 ## 📊 Data Model Design
 
-![Data Model!]("D:\Weather Dashboard\Assets\Data Model.png")
+![Data Model!](https://github.com/Peter-Sobhy1/Weather-Power-BI-Dashboard/blob/main/Assets/Data%20Model.png?raw=true)
 
 The data model is optimized for performance and accuracy using star schema design principles. It includes:
 
