@@ -16,7 +16,7 @@ This project is a fully dynamic Power BI dashboard that visualizes weather data 
   - Dynamic **chance of rain** visualization
   - **Forecast** for the next 7 days
   - **Air quality** Index
-  - Conditional formatting using **icons and color-coded dots**
+  - Conditional formatting using **DAX measures** to replace implicit aggregation and apply **icon- and color-based logic**
   - **Fully dynamic visuals** that update based on API values
 
 ## 📊 Data Model Design
@@ -64,7 +64,7 @@ The data model is optimized for performance and accuracy using star schema desig
 - City-based weather comparison
 - Real-time updates with API integration
 - Enhanced user experience with intuitive icons and tooltips
-
+- **DAX-based conditional formatting** used for highlighting rain chances instead of default aggregations
 ---
 
 ## 📌 Note
