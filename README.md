@@ -1,6 +1,6 @@
 # 🌦️ Interactive Weather Dashboard (Power BI)
 
-This project is a fully dynamic Power BI dashboard that visualizes weather data (temperature and chance of rain) across three major Egyptian cities: **Cairo**, **Giza**, and **Alexandria**. The data is fetched from a live weather API and automatically refreshed every three hours.
+This project is a fully dynamic Power BI dashboard that visualizes weather data (temperature and chance of rain) across almost all of Egypt (27 cities). The data is fetched from a live weather API and automatically refreshed every three hours.
 
 **Link** for the dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTQ1OWZhOGEtNDRiYi00YWQ5LThiY2MtZTI3ZDA0YzVkYmFiIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9
 
